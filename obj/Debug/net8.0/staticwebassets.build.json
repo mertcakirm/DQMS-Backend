@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "51kvkEp8ecUsdWaes22iAO5qs8gX18FObaOLRaoy+os=",
+  "Source": "QDMS Api",
+  "BasePath": "_content/QDMS Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

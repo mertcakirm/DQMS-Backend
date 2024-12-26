@@ -1,0 +1,125 @@
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/appsettings.Development.json
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/appsettings.json
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/QDMS Api.staticwebassets.endpoints.json
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/QDMS Api
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/QDMS Api.deps.json
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/QDMS Api.runtimeconfig.json
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/QDMS Api.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/QDMS Api.pdb
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Dapper.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/MailKit.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/MimeKit.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/MySql.Data.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/ZstdSharp.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.csproj.AssemblyReference.cache
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.AssemblyInfoInputs.cache
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.AssemblyInfo.cs
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.csproj.CoreCompileInputs.cache
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.sourcelink.json
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/scopedcss/bundle/QDMS Api.styles.css
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/staticwebassets/msbuild.QDMS Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/staticwebassets/msbuild.QDMS Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/staticwebassets/msbuild.build.QDMS Api.props
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.QDMS Api.props
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.QDMS Api.props
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.csproj.Up2Date
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/refint/QDMS Api.dll
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.pdb
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/QDMS Api.genruntimeconfig.cache
+/Users/mertcakir/visualStudioProject/QDMS-Api/obj/Debug/net8.0/ref/QDMS Api.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/appsettings.Development.json
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/appsettings.json
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/QDMS Api.staticwebassets.endpoints.json
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/QDMS Api
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/QDMS Api.deps.json
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/QDMS Api.runtimeconfig.json
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/QDMS Api.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/QDMS Api.pdb
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Dapper.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/MailKit.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/MimeKit.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/MySql.Data.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/ZstdSharp.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.csproj.AssemblyReference.cache
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.AssemblyInfoInputs.cache
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.AssemblyInfo.cs
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.csproj.CoreCompileInputs.cache
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/scopedcss/bundle/QDMS Api.styles.css
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/staticwebassets/msbuild.QDMS Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/staticwebassets/msbuild.QDMS Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/staticwebassets/msbuild.build.QDMS Api.props
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.QDMS Api.props
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.QDMS Api.props
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.csproj.Up2Date
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/refint/QDMS Api.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.pdb
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.genruntimeconfig.cache
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/ref/QDMS Api.dll
