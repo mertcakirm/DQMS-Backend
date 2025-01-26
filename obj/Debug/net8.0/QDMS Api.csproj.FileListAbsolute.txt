@@ -123,3 +123,4 @@
 /Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.pdb
 /Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.genruntimeconfig.cache
 /Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/ref/QDMS Api.dll
+/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.sourcelink.json
