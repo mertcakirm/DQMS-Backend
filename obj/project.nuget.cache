@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V7wk7hZbzCo=",
+  "dgSpecHash": "QaRlZtf295A=",
   "success": true,
-  "projectFilePath": "/Users/mertcakir/Desktop/QDMS/QDMS-Backend/QDMS Api.csproj",
+  "projectFilePath": "/Users/mertcakir/RiderProjects/DQMS-Backend/QDMS Api.csproj",
   "expectedPackageFiles": [
     "/Users/mertcakir/.nuget/packages/bouncycastle.cryptography/2.4.0/bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "/Users/mertcakir/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",

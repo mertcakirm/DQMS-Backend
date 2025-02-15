@@ -6,7 +6,7 @@ using System.Collections.Concurrent;
 
 namespace QDMS.Services
 {
-    public class EmailSenderService
+    public class EmailSenderService  
     {
         private readonly string _baseHtml;
         private readonly int _emailProcessingInterval;

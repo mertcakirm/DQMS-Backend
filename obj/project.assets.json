@@ -2699,11 +2699,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mertcakir/Desktop/QDMS/QDMS-Backend/QDMS Api.csproj",
+      "projectUniqueName": "/Users/mertcakir/RiderProjects/DQMS-Backend/QDMS Api.csproj",
       "projectName": "QDMS Api",
-      "projectPath": "/Users/mertcakir/Desktop/QDMS/QDMS-Backend/QDMS Api.csproj",
+      "projectPath": "/Users/mertcakir/RiderProjects/DQMS-Backend/QDMS Api.csproj",
       "packagesPath": "/Users/mertcakir/.nuget/packages/",
-      "outputPath": "/Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/",
+      "outputPath": "/Users/mertcakir/RiderProjects/DQMS-Backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mertcakir/.nuget/NuGet/NuGet.Config"
