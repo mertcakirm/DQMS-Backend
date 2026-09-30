@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "Fh94UdFGj59nw7Wu/RNsmDaa/YgZOD4/hBPnJpe/MWQ=",
-  "Source": "QDMS Api",
-  "BasePath": "_content/QDMS Api",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"E7xwr17xyZjiHxMex6WrWjEe2gfthPMFQP5xSwV+Cc0=","Source":"QDMS Api","BasePath":"/","Mode":"Root","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

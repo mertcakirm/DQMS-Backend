@@ -126,7 +126,6 @@
 /Users/mertcakir/Desktop/QDMS/QDMS-Backend/obj/Debug/net8.0/QDMS Api.sourcelink.json
 /Users/mertcakir/RiderProjects/DQMS-Backend/bin/Debug/net8.0/appsettings.Development.json
 /Users/mertcakir/RiderProjects/DQMS-Backend/bin/Debug/net8.0/appsettings.json
-/Users/mertcakir/RiderProjects/DQMS-Backend/bin/Debug/net8.0/global.json
 /Users/mertcakir/RiderProjects/DQMS-Backend/bin/Debug/net8.0/QDMS Api
 /Users/mertcakir/RiderProjects/DQMS-Backend/bin/Debug/net8.0/QDMS Api.deps.json
 /Users/mertcakir/RiderProjects/DQMS-Backend/bin/Debug/net8.0/QDMS Api.runtimeconfig.json
@@ -173,11 +172,6 @@
 /Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/QDMS Api.sourcelink.json
 /Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/staticwebassets.build.json
 /Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/staticwebassets.development.json
-/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/staticwebassets/msbuild.QDMS Api.Microsoft.AspNetCore.StaticWebAssets.props
-/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/staticwebassets/msbuild.build.QDMS Api.props
-/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.QDMS Api.props
-/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.QDMS Api.props
-/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/staticwebassets.pack.json
 /Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/scopedcss/bundle/QDMS Api.styles.css
 /Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/QDMS Api.csproj.Up2Date
 /Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/QDMS Api.dll
@@ -185,3 +179,11 @@
 /Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/QDMS Api.pdb
 /Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/QDMS Api.genruntimeconfig.cache
 /Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/ref/QDMS Api.dll
+/Users/mertcakir/RiderProjects/DQMS-Backend/bin/Debug/net8.0/QDMS Api.staticwebassets.endpoints.json
+/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/mertcakir/RiderProjects/DQMS-Backend/obj/Debug/net8.0/swae.build.ex.cache
